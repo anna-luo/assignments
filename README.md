@@ -1,3 +1,3 @@
 # assignments
 Applied Economics 1
-assignments/Python-Final-Assignment.ipynb
+https://github.com/anna-luo/assignments/blob/master/Python-Final-Assignment.ipynb
